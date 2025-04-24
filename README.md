@@ -88,3 +88,4 @@ This project is distributed under a <a href="https://github.com/Bahna-Darius/gar
 ## Author
 
 This project was created and is maintained by Bahna Darius. You can find me on [LinkedIn](https://www.linkedin.com/in/darius-bahn%C4%83-2224b7264/).
+
