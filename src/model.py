@@ -3,14 +3,14 @@ import cv2
 import torch
 
 
-sys.path.insert(__index=0, __object='../yolov5')
+sys.path.insert(0, '/home/UpetLab/garbage_sort/yolov5')
 
 model = torch.hub.load(
-    repo_or_dir='../yolov5',
+    repo_or_dir='/home/UpetLab/garbage_sort/yolov5',
     model='custom',
-    path='../weights/best.pt',
+    path='/home/UpetLab/garbage_sort/weights/best.pt',
     source='local',
-    force_reload=False
+    force_reload=True
 )
 
 
