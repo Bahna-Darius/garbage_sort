@@ -1,3 +1,4 @@
 .idea
 data/input/frame_test.jpg
 data/output/predict_test.jpg
+src/__pycache__
