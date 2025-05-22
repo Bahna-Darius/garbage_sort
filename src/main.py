@@ -16,8 +16,8 @@ def main():
     cap = cv2.VideoCapture(0)
 
     # Set resolution
-    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
-    cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
+    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)
+    cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080)
 
     # Warm up the camera
     for _ in range(10):

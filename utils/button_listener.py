@@ -2,8 +2,10 @@ import RPi.GPIO as GPIO
 import time
 import subprocess
 
+
 # Pin setup
 BUTTON_PIN = 18
+
 
 # Setup GPIO
 GPIO.setmode(GPIO.BCM)
