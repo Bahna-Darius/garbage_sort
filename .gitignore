@@ -1,3 +1,7 @@
 .idea
 data/input/frame_test.jpg
+data/input/predict_test.jpg
 data/output/predict_test.jpg
+src/__pycache__
+venv/
+yolov5
