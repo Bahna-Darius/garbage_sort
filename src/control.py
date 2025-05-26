@@ -40,7 +40,7 @@ def move_trap(position: int):
               2 = open (0)
     """
     if position == 1:
-        set_servo_angle(1, 50)  
+        set_servo_angle(1, 85)  
     elif position == 2:
         set_servo_angle(1, 0)
     else:
